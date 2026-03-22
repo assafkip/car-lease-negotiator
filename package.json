@@ -1,0 +1,9 @@
+{
+  "name": "car-lease-negotiator",
+  "version": "1.0.0",
+  "description": "Claude Code skill for negotiating car leases over email using Chris Voss tactics + lease calculator",
+  "scripts": {
+    "check-deal": "node tools/check-deal.js"
+  },
+  "license": "MIT"
+}

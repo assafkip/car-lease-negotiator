@@ -1,0 +1,39 @@
+{
+  "vehicle": {
+    "make": "Kia",
+    "model": "EV9",
+    "year": 2026,
+    "trim": "Light Long Range RWD",
+    "package": "Relaxation Captain's Chair Package",
+    "package_cost": 2000,
+    "base_msrp": 57900,
+    "destination": 1495,
+    "total_msrp": 61395,
+    "color_preference": "any"
+  },
+  "lease_target": {
+    "monthly_max": 550,
+    "monthly_ask": 500,
+    "drive_off": 0,
+    "term_months": 36,
+    "miles_per_year": 10000,
+    "include_tax": true,
+    "tax_rate": 0.09
+  },
+  "location": {
+    "zip": "90210",
+    "state": "CA",
+    "radius_miles": 50
+  },
+  "buyer_profile": {
+    "current_vehicle": "Same make (lease ending)",
+    "loyalty_eligible": true,
+    "test_drive_needed": false,
+    "contact_preference": "email_or_text_only"
+  },
+  "market_data": {
+    "money_factor_buy_rate": 0.00199,
+    "residual_pct": 0.64,
+    "target_discount_pct": 0.08
+  }
+}
