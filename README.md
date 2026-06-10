@@ -72,3 +72,13 @@ Edit `car-spec.json` with your target vehicle and lease terms. The skill reads t
 ## License
 
 MIT
+
+---
+
+## Built by Assaf
+
+I spent 12 years in threat intelligence reading adversaries from their written moves. A dealer email thread is the same game with smaller stakes.
+
+This free version is the skill + calculator. **[The paid kit ($29)](https://claudedaddy.gumroad.com/l/car-lease-negotiator)** adds the Deal Room (paste a quote, get the score + counter + walk-away number), the email-by-email Thread Playbook, the dealer Fee Checklist, and a no-terminal install.
+
+More tools at [claudedaddy.io](https://claudedaddy.io).
